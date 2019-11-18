@@ -220,7 +220,7 @@ timon I bet you're Impressively Intelligent!
 Read through the examples in these two articles:
 
 * [`for` loops](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3)
-* [`while` loops](https://www.digitalocean.com/community/tutorials/how-to-construct-while-loops-in-python-3)
+* [`while` loops](https://realpython.com/python-while-loop/)
 
 Then, answer the following questions in a file called `exercise5.txt`:
 
@@ -232,7 +232,7 @@ Then, answer the following questions in a file called `exercise5.txt`:
 
 ---
 
-# (STRETCH) Exercise 6: If You're Cold, Sit in a Corner. It's 90 Degrees!
+# Exercise 6: If You're Cold, Sit in a Corner. It's 90 Degrees!
 
 **Skill you're Practicing:** Writing `while` Loops
 
